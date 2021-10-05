@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-13456
-=======
+HEAD Update
+1345
 13457
->>>>>>> 67b62419b4e993cd204c6be1d0ec7306a7664d6e
+67b62419b4e993cd204c6be1d0ec7306a7664d6e
 commit test
 777
 789.
